@@ -8,3 +8,6 @@ deployment6 on master branch
 deploment4
 deploment5
 deploy to stageging environment
+echo "great job"
+tested and accepted
+
